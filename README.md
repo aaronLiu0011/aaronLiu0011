@@ -17,6 +17,14 @@ I'm a passionate Economics student with a strong interest in data analysis and e
 - **Frameworks:** ggplot2, dplyr, Pandas
 - **Tools:** Jupyter, Git, Excel, R Studio
 
+## Projects
+Here are some of my projects:
+
+- [R for Empirical Economics]([https://github.com/aaronLiu0011/R-for-Empirical-Economics-Assignments-LectureNote]): Using R for empirical analysis in economics.
+- [Machine Learning for Economics]([https://github.com/aaronLiu0011/ML-for-Economics-Assignment]): Implementing machine learning models to analyze economic data.
+- [Green TFP Analysis]([https://github.com/aaronLiu0011/Appendix-Green-TFP-Analysis-Guangdong]): Analyzing Green Total Factor Productivity in Guangdong, China.
+
+
 ## GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=aaronliu0011&show_icons=true&hide=issues&count_private=true&theme=default_repocard)
 
