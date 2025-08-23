@@ -12,8 +12,7 @@ I’m a graduate student in Economics with a background in data analysis, econom
 
 
 ## Skills
-- **Languages:** Java (learning), R, Python, Stata, Matlab
-- **Frameworks:** ggplot2, dplyr, Pandas
+- **Languages:** Java, R, Python, Stata, Matlab
 - **Fields:** Econometrics, Financial Engineering, Causal Inference, Data Visualization
 
 ## Projects
