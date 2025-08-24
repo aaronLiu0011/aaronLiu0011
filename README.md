@@ -24,7 +24,6 @@ Here are some of my projects:
 
 
 ## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=aaronliu0011&show_icons=true&hide=issues&count_private=true&theme=default_repocard)
-
+[![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaronLiu0011)](https://github.com/aaronLiu0011/github-readme-stats)
 ## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aaronliu0011&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaronLiu0011&layout=compact&theme=default)
