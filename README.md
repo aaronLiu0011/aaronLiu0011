@@ -23,8 +23,10 @@ Here are some of my projects:
 - [Green TFP Analysis](https://github.com/aaronLiu0011/Appendix-Green-TFP-Analysis-Guangdong): Analyzing Green Total Factor Productivity in Guangdong, China.
 
 ---
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaronLiu0011&theme=nord_dark)
 
-![https://github-readme-stats.vercel.app/api?username=aaronLiu0011](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={aaronLiu0011}&theme={nord_dark})
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aaronLiu0011&theme=nord_dark)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aaronLiu0011&theme=nord_dark)
 
-![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={aaronLiu0011}&theme={nord_dark}&exclude={exclude}
-)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aaronLiu0011&theme=nord_dark)
+
