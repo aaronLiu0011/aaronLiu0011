@@ -22,8 +22,9 @@ Here are some of my projects:
 - [Machine Learning for Economics](https://github.com/aaronLiu0011/ML-for-Economics-Assignment): Implementing machine learning models to analyze economic data.
 - [Green TFP Analysis](https://github.com/aaronLiu0011/Appendix-Green-TFP-Analysis-Guangdong): Analyzing Green Total Factor Productivity in Guangdong, China.
 
+---
 
-## GitHub Stats
-![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaronLiu0011)
-## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaronLiu0011&layout=compact&theme=default)
+![https://github-readme-stats.vercel.app/api?username=aaronLiu0011](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={aaronLiu0011}&theme={nord_dark})
+
+![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={aaronLiu0011}&theme={nord_dark}&exclude={exclude}
+)
