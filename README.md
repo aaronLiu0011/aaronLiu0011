@@ -13,7 +13,7 @@ I’m a graduate student in Economics with a background in data analysis, econom
 
 ## Skills
 - **Languages:** Java, R, Python, Stata, Matlab
-- **Fields:** Econometrics, Financial Engineering, Causal Inference, Data Visualization
+- **Fields:** Econometrics, Financial Engineering, Causal Inference, System Engineering
 
 ## Projects
 Here are some of my projects:
